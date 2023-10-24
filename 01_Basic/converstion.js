@@ -16,4 +16,10 @@ let isBoolean = Boolean(scores)
 console.log(typeof isBoolean);
 console.log(isBoolean);
 
+let someNumber = 33
+
+let stringNumber = String(someNumber)
+console.log(stringNumber);
+console.log(typeof stringNumber);
+
 
